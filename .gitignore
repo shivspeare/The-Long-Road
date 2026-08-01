@@ -67,3 +67,20 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Build folders
+Debug/
+Release/
+x64/
+x86/
+.vs/
+cmake_build/
+
+# Object and executable files
+*.a
+*.lib
+
+# IDE files
+.vscode/
+*.sln
+*.vcxproj.user

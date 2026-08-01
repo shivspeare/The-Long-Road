@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "Hello Again! Testing the .gitignore feature...\n"
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
